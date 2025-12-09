@@ -1,2 +1,2 @@
 # kutuphane-otomasyon
-Python ve SQL kullanılarak geliştirilmiş kütüphane otomasyon sistemi (CRUD)
+Java ve SQL kullanılarak geliştirilmiş kütüphane otomasyon sistemi (CRUD)
